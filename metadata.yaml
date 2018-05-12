@@ -1,0 +1,28 @@
+_repo: Quiet-Talks-on-Following-the-Christ_18486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gordon, S. D. (Samuel Dickey)
+    alias: Gordon, Samuel Dickey
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '4409'
+    url: http://www.gutenberg.org/2009/agents/4409
+description: ''
+gutenberg_issued: '2006-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional literature'
+- !lcsh 'Christian life'
+- !lcc 'BR'
+title: Quiet Talks on Following the Christ
+url: http://www.gutenberg.org/ebooks/18486
